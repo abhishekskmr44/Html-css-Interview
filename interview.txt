@@ -8,6 +8,9 @@ The CSS box model is essentially a box that wraps around every HTML element.
 It consists of: margins, borders, padding, and the actual content.
 
 What is the difference between position absolute, relative and fixed?
+Relative - the element is positioned relative to its normal position. 
+Absolute - the element is positioned absolutely to its first positioned parent. 
+Fixed - the element is positioned related to the browser window. Sticky - the element is positioned based on the user's scroll position.
 
 What is CSS positioning?
 
