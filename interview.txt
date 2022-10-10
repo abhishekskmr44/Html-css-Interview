@@ -13,13 +13,16 @@ Absolute - the element is positioned absolutely to its first positioned parent.
 Fixed - the element is positioned related to the browser window. Sticky - the element is positioned based on the user's scroll position.
 
 What is CSS positioning?
+
+
+the difference between display none and display hidden
 Difference between display:none and visiblity: hidden
 visibility:hidden hides the element, 
 but it still takes up space in the layout. 
 Display:none removes the element from the document.
 It does not take up any space.
 
-the difference between display none and display hidden
+
 
 Difference between flex and grid? Where to use it?
 
