@@ -13,6 +13,9 @@ Absolute - the element is positioned absolutely to its first positioned parent.
 Fixed - the element is positioned related to the browser window. Sticky - the element is positioned based on the user's scroll position.
 
 What is CSS positioning?
+The CSS position property defines the position of an element in a document. 
+This property works with the left, right, top, 
+bottom and z-index properties to determine the final position of an element on a page.
 
 
 the difference between display none and display hidden
